@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339147757854",
+    "project_id": "matchthepic",
+    "storage_bucket": "matchthepic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339147757854:android:528c2ae224f2319568910f",
+        "android_client_info": {
+          "package_name": "com.example.matchthepic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339147757854-7e2ifb6d815rp4eg2l7bkip4fnvure7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3eq553cfju6S6Mhh-XMVTheO55zGt__o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339147757854-7e2ifb6d815rp4eg2l7bkip4fnvure7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
